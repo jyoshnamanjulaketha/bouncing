@@ -1,3 +1,7 @@
-# bouncing
-caluculate the nunmber of times the ball bounce
+# Counting Ball Bounces in Recorded Videos
+###Technologies:
+->OpenCV
+->Python Programming
+->Computer Vision
+
 
