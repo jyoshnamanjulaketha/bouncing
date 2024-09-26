@@ -1,5 +1,5 @@
 # Counting Ball Bounces in Recorded Videos
-###Technologies:
+### Technologies:
 ->OpenCV
 ->Python Programming
 ->Computer Vision
